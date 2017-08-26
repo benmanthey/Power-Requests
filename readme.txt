@@ -3,7 +3,7 @@ Ben Manthey
 ben.manthey@gmail.com
 
 Requirements:
-LabVIEW 2014, basic edition. No additional files needed.
+LabVIEW 2017, basic edition. No additional files needed.
 Windows Only
 
 More info:
