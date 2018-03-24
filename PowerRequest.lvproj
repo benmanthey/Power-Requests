@@ -13,11 +13,11 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Power Requests.lvlib" Type="Library" URL="../Power Requests.lvlib"/>
 		<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
-		<Item Name="Demo with FGV.vi" Type="VI" URL="../Demo with FGV.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Power Availability Requests.vi" Type="VI" URL="../Power Availabilty Requests/Power Availability Requests.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

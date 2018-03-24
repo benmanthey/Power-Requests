@@ -54,9 +54,11 @@
 		<Item Name="Power Availiability Requests Functions.ctl" Type="VI" URL="../Power Availabilty Requests/Type Defs/Power Availiability Requests Functions.ctl"/>
 		<Item Name="Power Request Type.ctl" Type="VI" URL="../Power Availabilty Requests/Type Defs/Power Request Type.ctl"/>
 	</Item>
-	<Item Name="Power Create Request.vi" Type="VI" URL="../Power Availabilty Requests/Power Create Request.vi"/>
-	<Item Name="Power Set Request.vi" Type="VI" URL="../Power Availabilty Requests/Power Set Request.vi"/>
-	<Item Name="Power Clear Request.vi" Type="VI" URL="../Power Availabilty Requests/Power Clear Request.vi"/>
-	<Item Name="Close Handle.vi" Type="VI" URL="../Power Availabilty Requests/Close Handle.vi"/>
-	<Item Name="Power Availability Requests.vi" Type="VI" URL="../Power Availabilty Requests/Power Availability Requests.vi"/>
+	<Item Name="Commands" Type="Folder">
+		<Item Name="Power Create Request.vi" Type="VI" URL="../Power Availabilty Requests/Power Create Request.vi"/>
+		<Item Name="Power Set Request.vi" Type="VI" URL="../Power Availabilty Requests/Power Set Request.vi"/>
+		<Item Name="Power Clear Request.vi" Type="VI" URL="../Power Availabilty Requests/Power Clear Request.vi"/>
+		<Item Name="Close Handle.vi" Type="VI" URL="../Power Availabilty Requests/Close Handle.vi"/>
+	</Item>
+	<Item Name="Power Availability Requests AE.vi" Type="VI" URL="../Power Availabilty Requests/Power Availability Requests AE.vi"/>
 </Library>
