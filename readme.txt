@@ -7,10 +7,10 @@ Requirements:
 LabVIEW 2017, Basic Edition. No additional files needed.
 Windows 7 and above only
 The first verion of LabVIEW to support Win 7 is 2009 SP1
-You can use 'Save for Previous Version' or use the NI Version Conversion community at https://forums.ni.com/t5/Version-Conversion/bd-p/VersionConversion
+You can use 'Save for Previous Version' or use the NI Version Conversion community at https://forums.ni.com/t5/Version-Conversion/bd-p/VersionConversion 
 
 More info:
-http://download.microsoft.com/download/7/E/7/7E7662CF-CBEA-470B-A97E-CE7CE0D98DC2/AvailabilityRequests.docx
+http://download.microsoft.com/download/7/E/7/7E7662CF-CBEA-470B-A97E-CE7CE0D98DC2/AvailabilityRequests.docx --- This file is no longer available, I've now included it in this repository.
 The first verion of LabVIEW to support Win 7 is 2009 SP1
 You can use 'Save for Previous Version' or use the NI Version Conversion community at https://forums.ni.com/t5/Version-Conversion/bd-p/VersionConversion
 
